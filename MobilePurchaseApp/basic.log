@@ -1,0 +1,60 @@
+2016-09-15 16:10:56,704 DEBUG [com.cg.trg.mobilepurchase.dao.MobileDAOImpl] - I am fetching all details of mobile
+2016-09-15 16:10:56,708 ERROR [com.cg.trg.mobilepurchase.dao.MobileDAOImpl] - I am debugging
+2016-09-15 16:10:56,709 DEBUG [com.cg.trg.mobilepurchase.dao.MobileDAOImpl] - I have fetched all details
+2016-09-15 16:11:21,839 DEBUG [com.cg.trg.mobilepurchase.dao.MobileDAOImpl] - I am Fetching details in selected Price Range
+2016-09-15 16:11:21,930 DEBUG [com.cg.trg.mobilepurchase.dao.MobileDAOImpl] - I have fetched details of mobile in given price Range
+2016-09-15 16:12:48,070 DEBUG [com.cg.trg.mobilepurchase.dao.MobileDAOImpl] - I am Checking Quantity
+2016-09-15 16:12:48,072 DEBUG [com.cg.trg.mobilepurchase.dao.MobileDAOImpl] - I am Updating Details in Mobiles
+2016-09-15 16:12:48,151 DEBUG [com.cg.trg.mobilepurchase.dao.MobileDAOImpl] - I am Inserting Details in PurchaseDetails
+2016-09-15 16:12:48,153 DEBUG [com.cg.trg.mobilepurchase.dao.MobileDAOImpl] - Generating Seq
+2016-09-15 16:12:48,229 ERROR [com.cg.trg.mobilepurchase.dao.MobileDAOImpl] - i am debugging
+2016-09-15 16:12:48,230 DEBUG [com.cg.trg.mobilepurchase.dao.MobileDAOImpl] - I have Checked,updated,inserted Details
+2016-09-15 16:14:43,957 DEBUG [com.cg.trg.mobilepurchase.dao.MobileDAOImpl] - I am fetching all details of mobile
+2016-09-15 16:14:43,961 ERROR [com.cg.trg.mobilepurchase.dao.MobileDAOImpl] - I am debugging
+2016-09-15 16:14:43,962 DEBUG [com.cg.trg.mobilepurchase.dao.MobileDAOImpl] - I have fetched all details
+2016-09-15 16:19:22,428 DEBUG [com.cg.trg.mobilepurchase.dao.MobileDAOImpl] - I am fetching all details of mobile
+2016-09-15 16:19:22,432 ERROR [com.cg.trg.mobilepurchase.dao.MobileDAOImpl] - I am debugging
+2016-09-15 16:19:22,433 DEBUG [com.cg.trg.mobilepurchase.dao.MobileDAOImpl] - I have fetched all details
+2016-09-15 16:22:12,296 DEBUG [com.cg.trg.mobilepurchase.dao.MobileDAOImpl] - I am fetching all details of mobile
+2016-09-15 16:22:12,312 ERROR [com.cg.trg.mobilepurchase.dao.MobileDAOImpl] - I am debugging
+2016-09-15 16:22:12,313 DEBUG [com.cg.trg.mobilepurchase.dao.MobileDAOImpl] - I have fetched all details
+2016-09-15 16:23:34,744 DEBUG [com.cg.trg.mobilepurchase.dao.MobileDAOImpl] - I am fetching all details of mobile
+2016-09-15 16:23:34,749 ERROR [com.cg.trg.mobilepurchase.dao.MobileDAOImpl] - I am debugging
+2016-09-15 16:23:34,750 DEBUG [com.cg.trg.mobilepurchase.dao.MobileDAOImpl] - I have fetched all details
+2016-09-15 16:23:44,944 DEBUG [com.cg.trg.mobilepurchase.dao.MobileDAOImpl] - I am fetching all details of mobile
+2016-09-15 16:23:44,949 ERROR [com.cg.trg.mobilepurchase.dao.MobileDAOImpl] - I am debugging
+2016-09-15 16:23:44,950 DEBUG [com.cg.trg.mobilepurchase.dao.MobileDAOImpl] - I have fetched all details
+2016-09-15 16:26:08,837 DEBUG [com.cg.trg.mobilepurchase.dao.MobileDAOImpl] - I am fetching all details of mobile
+2016-09-15 16:26:08,841 ERROR [com.cg.trg.mobilepurchase.dao.MobileDAOImpl] - I am debugging
+2016-09-15 16:26:08,843 DEBUG [com.cg.trg.mobilepurchase.dao.MobileDAOImpl] - I have fetched all details
+2016-09-15 16:26:32,038 DEBUG [com.cg.trg.mobilepurchase.dao.MobileDAOImpl] - I am fetching all details of mobile
+2016-09-15 16:26:32,043 ERROR [com.cg.trg.mobilepurchase.dao.MobileDAOImpl] - I am debugging
+2016-09-15 16:26:32,044 DEBUG [com.cg.trg.mobilepurchase.dao.MobileDAOImpl] - I have fetched all details
+2016-09-15 16:27:57,800 DEBUG [com.cg.trg.mobilepurchase.dao.MobileDAOImpl] - I am fetching all details of mobile
+2016-09-15 16:27:57,805 ERROR [com.cg.trg.mobilepurchase.dao.MobileDAOImpl] - I am debugging
+2016-09-15 16:27:57,806 DEBUG [com.cg.trg.mobilepurchase.dao.MobileDAOImpl] - I have fetched all details
+2016-09-15 16:29:49,794 DEBUG [com.cg.trg.mobilepurchase.dao.MobileDAOImpl] - I am fetching all details of mobile
+2016-09-15 16:29:49,799 ERROR [com.cg.trg.mobilepurchase.dao.MobileDAOImpl] - I am debugging
+2016-09-15 16:29:49,800 DEBUG [com.cg.trg.mobilepurchase.dao.MobileDAOImpl] - I have fetched all details
+2016-09-15 16:31:48,274 DEBUG [com.cg.trg.mobilepurchase.dao.MobileDAOImpl] - I am fetching all details of mobile
+2016-09-15 16:31:48,278 ERROR [com.cg.trg.mobilepurchase.dao.MobileDAOImpl] - I am debugging
+2016-09-15 16:31:48,279 DEBUG [com.cg.trg.mobilepurchase.dao.MobileDAOImpl] - I have fetched all details
+2016-09-15 16:34:06,973 DEBUG [com.cg.trg.mobilepurchase.dao.MobileDAOImpl] - I am fetching all details of mobile
+2016-09-15 16:34:07,085 ERROR [com.cg.trg.mobilepurchase.dao.MobileDAOImpl] - I am debugging
+2016-09-15 16:34:07,086 DEBUG [com.cg.trg.mobilepurchase.dao.MobileDAOImpl] - I have fetched all details
+2016-09-15 16:35:34,056 DEBUG [com.cg.trg.mobilepurchase.dao.MobileDAOImpl] - I am fetching all details of mobile
+2016-09-15 16:35:34,180 ERROR [com.cg.trg.mobilepurchase.dao.MobileDAOImpl] - I am debugging
+2016-09-15 16:35:34,182 DEBUG [com.cg.trg.mobilepurchase.dao.MobileDAOImpl] - I have fetched all details
+2016-09-15 16:35:53,108 DEBUG [com.cg.trg.mobilepurchase.dao.MobileDAOImpl] - I am fetching all details of mobile
+2016-09-15 16:35:53,199 DEBUG [com.cg.trg.mobilepurchase.dao.MobileDAOImpl] - I have fetched all details
+2016-09-15 16:36:27,481 DEBUG [com.cg.trg.mobilepurchase.dao.MobileDAOImpl] - I am fetching all details of mobile
+2016-09-15 16:36:27,573 DEBUG [com.cg.trg.mobilepurchase.dao.MobileDAOImpl] - I have fetched all details
+2016-09-15 16:37:14,204 DEBUG [com.cg.trg.mobilepurchase.dao.MobileDAOImpl] - I am fetching all details of mobile
+2016-09-15 16:37:14,345 DEBUG [com.cg.trg.mobilepurchase.dao.MobileDAOImpl] - I have fetched all details
+2016-09-15 16:43:02,036 DEBUG [com.cg.trg.mobilepurchase.dao.MobileDAOImpl] - I am Checking Quantity
+2016-09-15 16:43:02,112 DEBUG [com.cg.trg.mobilepurchase.dao.MobileDAOImpl] - I am Updating Details in Mobiles
+2016-09-15 16:43:02,113 DEBUG [com.cg.trg.mobilepurchase.dao.MobileDAOImpl] - I am Inserting Details in PurchaseDetails
+2016-09-15 16:43:02,130 DEBUG [com.cg.trg.mobilepurchase.dao.MobileDAOImpl] - Generating Seq
+2016-09-15 16:43:02,226 DEBUG [com.cg.trg.mobilepurchase.dao.MobileDAOImpl] - I have Checked,updated,inserted Details
+2016-09-15 16:43:27,932 DEBUG [com.cg.trg.mobilepurchase.dao.MobileDAOImpl] - I am deleting details of mobile by accepting mobId
+2016-09-15 16:43:27,934 DEBUG [com.cg.trg.mobilepurchase.dao.MobileDAOImpl] - I have deleted all details

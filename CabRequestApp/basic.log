@@ -1,0 +1,44 @@
+2016-09-16 10:26:00,481 DEBUG [com.capgemini.cab.dao.CabRequestDAO] - Sequence number	1001
+2016-09-16 10:27:46,838 DEBUG [com.capgemini.cab.dao.CabRequestDAO] - Sequence number	1002
+2016-09-16 10:27:47,259 INFO [com.capgemini.cab.dao.CabRequestDAO] - Insertion done in CustOrder
+2016-09-16 10:36:55,045 DEBUG [com.capgemini.cab.dao.CabRequestDAO] - Sequence number	1003
+2016-09-16 10:36:55,217 INFO [com.capgemini.cab.dao.CabRequestDAO] - Insertion done in CustOrder
+2016-09-16 10:49:12,509 DEBUG [com.capgemini.cab.dao.CabRequestDAO] - Fetching request by ID
+2016-09-16 10:49:19,718 DEBUG [com.capgemini.cab.dao.CabRequestDAO] - Fetching request by ID
+2016-09-16 11:09:06,083 DEBUG [com.capgemini.cab.dao.CabRequestDAO] - Sequence number	1004
+2016-09-16 11:09:06,223 INFO [com.capgemini.cab.dao.CabRequestDAO] - Insertion done in CustOrder
+2016-09-16 11:09:24,465 DEBUG [com.capgemini.cab.dao.CabRequestDAO] - Fetching request by ID
+2016-09-16 11:29:22,848 DEBUG [com.capgemini.cab.dao.CabRequestDAO] - Fetching request by ID
+2016-09-16 11:29:38,751 DEBUG [com.capgemini.cab.dao.CabRequestDAO] - Fetching request by ID
+2016-09-16 11:29:45,587 DEBUG [com.capgemini.cab.dao.CabRequestDAO] - Fetching request by ID
+2016-09-16 11:31:17,787 DEBUG [com.capgemini.cab.dao.CabRequestDAO] - Fetching request by ID
+2016-09-16 11:31:50,583 DEBUG [com.capgemini.cab.dao.CabRequestDAO] - Fetching request by ID
+2016-09-16 11:33:23,317 DEBUG [com.capgemini.cab.dao.CabRequestDAO] - Fetching request by ID
+2016-09-16 11:37:29,889 DEBUG [com.capgemini.cab.dao.CabRequestDAO] - Fetching request by ID
+2016-09-16 11:38:29,628 DEBUG [com.capgemini.cab.dao.CabRequestDAO] - Fetching request by ID
+2016-09-16 11:40:24,605 DEBUG [com.capgemini.cab.dao.CabRequestDAO] - Fetching request by ID
+2016-09-16 11:44:28,752 DEBUG [com.capgemini.cab.dao.CabRequestDAO] - Fetching request by ID
+2016-09-16 11:44:42,435 DEBUG [com.capgemini.cab.dao.CabRequestDAO] - Fetching request by ID
+2016-09-16 11:45:39,273 DEBUG [com.capgemini.cab.dao.CabRequestDAO] - Fetching request by ID
+2016-09-16 11:47:46,411 DEBUG [com.capgemini.cab.dao.CabRequestDAO] - Fetching request by ID
+2016-09-16 11:48:30,316 DEBUG [com.capgemini.cab.dao.CabRequestDAO] - Fetching request by ID
+2016-09-16 11:49:45,702 DEBUG [com.capgemini.cab.dao.CabRequestDAO] - Fetching request by ID
+2016-09-16 11:49:53,177 DEBUG [com.capgemini.cab.dao.CabRequestDAO] - Fetching request by ID
+2016-09-16 11:52:58,690 DEBUG [com.capgemini.cab.dao.CabRequestDAO] - Fetching request by ID
+2016-09-16 11:53:31,757 DEBUG [com.capgemini.cab.dao.CabRequestDAO] - Sequence number	1005
+2016-09-16 11:53:32,022 INFO [com.capgemini.cab.dao.CabRequestDAO] - Insertion done in CustOrder
+2016-09-16 11:54:55,206 DEBUG [com.capgemini.cab.dao.CabRequestDAO] - Sequence number	1007
+2016-09-16 11:54:55,393 INFO [com.capgemini.cab.dao.CabRequestDAO] - Insertion done in CustOrder
+2016-09-16 11:56:15,598 DEBUG [com.capgemini.cab.dao.CabRequestDAO] - Fetching request by ID
+2016-09-16 11:57:34,922 DEBUG [com.capgemini.cab.dao.CabRequestDAO] - Sequence number	1008
+2016-09-16 11:57:35,078 INFO [com.capgemini.cab.dao.CabRequestDAO] - Insertion done in CustOrder
+2016-09-16 11:59:00,492 DEBUG [com.capgemini.cab.dao.CabRequestDAO] - Fetching request by ID
+2016-09-16 12:00:26,068 DEBUG [com.capgemini.cab.dao.CabRequestDAO] - Fetching request by ID
+2016-09-16 12:06:40,940 DEBUG [com.capgemini.cab.dao.CabRequestDAO] - Sequence number	1010
+2016-09-16 12:08:55,774 DEBUG [com.capgemini.cab.dao.CabRequestDAO] - Sequence number	1011
+2016-09-16 12:08:55,930 INFO [com.capgemini.cab.dao.CabRequestDAO] - Insertion done in CustOrder
+2016-09-16 12:09:27,806 DEBUG [com.capgemini.cab.dao.CabRequestDAO] - Fetching request by ID
+2016-09-16 12:09:37,964 DEBUG [com.capgemini.cab.dao.CabRequestDAO] - Fetching request by ID
+2016-09-16 12:32:00,196 DEBUG [com.capgemini.cab.dao.CabRequestDAO] - Sequence number	1012
+2016-09-16 12:32:00,336 INFO [com.capgemini.cab.dao.CabRequestDAO] - Insertion done in cab_request
+2016-09-16 12:32:07,233 DEBUG [com.capgemini.cab.dao.CabRequestDAO] - Fetching request by ID
